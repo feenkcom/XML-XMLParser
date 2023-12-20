@@ -16,7 +16,7 @@ BaselineOfXMLParserForGlamorousToolkit >> baseline: spec [
 				spec repository: 'github://pharo-contributions/OrderPreservingDictionary:7803689056b52a9069940c3600bece878bec88c9/src' ].
 		spec
 			baseline: 'XMLWriterForGlamorousToolkit' with: [
-				spec repository: 'github://feenkcom/XML-XMLWriter:v0.6.0/src' ].
+				spec repository: 'github://feenkcom/XML-XMLWriter:v0.6.1/src' ].
 
 		spec package: 'XML-Parser' with: [
 			spec requires: #('OrderPreservingDictionary' 'BitmapCharacterSet') ].
