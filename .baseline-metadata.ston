@@ -1,1 +1,7 @@
-{	"repositories" : {		"github://pharo-contributions/OrderPreservingDictionary/src" : "7803689056b52a9069940c3600bece878bec88c9",		"github://pharo-contributions/BitmapCharacterSet/src" : "9209847b7be64c7deb82731291cfba6d1554686b",		"github://feenkcom/XML-XMLWriter/src" : "v0.6.1"	}}
+{
+	"repositories" : {
+		"github://pharo-contributions/OrderPreservingDictionary/src" : "7b3ab363379e35a3e0e0183b6c2d193a675f898f",
+		"github://pharo-contributions/BitmapCharacterSet/src" : "62ee106d7960646fa5b85577fe83f920a6bb6672",
+		"github://feenkcom/XML-XMLWriter/src" : "v0.6.2"
+	}
+}
